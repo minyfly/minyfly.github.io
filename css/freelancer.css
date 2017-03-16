@@ -102,6 +102,13 @@ header .intro-text .skills {
   header .intro-text .skills {
     font-size: 1.75em;
   }
+  .display-on-mobile {
+	  display:block;
+  }
+}
+.breaksmall { display:block} 
+@media (min-width: 1200px) {
+.breaksmall { display: none}
 }
 .navbar-custom {
   background: #2C3E50;
@@ -178,6 +185,7 @@ header .intro-text .skills {
     font-size: 1.5em;
   }
 }
+
 section {
   padding: 100px 0;
 }
