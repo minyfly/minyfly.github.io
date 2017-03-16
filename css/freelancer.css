@@ -503,3 +503,6 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+#contact{
+  padding: 50px 0 100px 0;
+}
