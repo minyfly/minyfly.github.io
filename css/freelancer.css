@@ -503,3 +503,17 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+
+.firstThird{
+  display: inline-block;
+  width: 32%;
+  height: 200px;
+}
+.secondThird{
+  display: inline-block;
+  width: 65%;
+  height: 200px;
+}
+#contact{
+  padding: 50px 0 100px 0;
+}
